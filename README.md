@@ -1,8 +1,8 @@
 # Xamarin.iOS.OpenCC
-OpenCC项目的Xamarin.iOS封装库
+OpenCC项目的Xamarin.iOS封装库(this is the wrap library of OpenCC to Xamarin.iOS)
 ## 使用方法
-- 1.在Xamarin.iOS项目中添加对OpenCC项目的引用；
-- 2.在代码中加入
+- 1.在Xamarin.iOS项目中添加对OpenCC项目的引用；（add reference to OpenCC project in your Xamarin.iOS）
+- 2.在代码中加入(add code like below)
 ```
 using OpenCC;
 
